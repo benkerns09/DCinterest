@@ -1,0 +1,6 @@
+.card {
+    display: flex;
+    align-items: flex-start;
+    width: 200px;
+    flex-direction: column;
+}
